@@ -81,6 +81,16 @@
           "visible": true
         }
       },
+      "/SmartDashboard/ADXRS450_Gyro[0]": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Encoders": {
+        "window": {
+          "visible": true
+        }
+      },
       "/SmartDashboard/Field": {
         "OdometryPose": {
           "arrowColor": [
